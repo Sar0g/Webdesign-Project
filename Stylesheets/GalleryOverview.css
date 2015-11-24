@@ -1,12 +1,29 @@
 @CHARSET "ISO-8859-1";
 
-#header {
-	width: 20%;
-	height: auto;
+#title {
+	text-align: center;
+	font-size: 600%;
+	padding: 5%;
+	font-family: bakery;
 }
 
 #body {
-	 background-color: #30302D;
+	background-color: #00AA44;
+}
+
+#part {
+	position: absolute;
+	font-size: 17px;
+	padding: 5px;
+}
+
+#all {
+	width: 89%;
+	height: auto;
+}
+
+#text {
+	text-align: center;
 }
 
 img {
