@@ -5,13 +5,37 @@
 	height: auto;
 }
 
+#menu {
+	position: absolute;
+	right: 1%;
+	top: 1%;
+	width: 4%;
+	hight: auto;
+}
+
+#text-header {
+	text-align: center;
+	font-size: 550%;
+	padding: 3%;
+}
+
+#text {
+	text-align: center;
+	font-size: 235%;
+}
+
+#line {
+	padding: 2%;
+}
+
 #body {
-	 background-color: #30302D;
+	 background-color: #E6E6E6;
 }
 
 img {
 	width: 89%;
 	height: auto;
+	margin-left: 5%;
 }
 
 [class*="col-"] {
