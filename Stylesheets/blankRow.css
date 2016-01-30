@@ -1,0 +1,7 @@
+@CHARSET "ISO-8859-1";
+
+#blankrow
+{
+    height: 10px !important; /* Overwrite any previous rules */
+    background-color: #FFFFFF;
+}

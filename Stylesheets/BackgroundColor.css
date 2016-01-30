@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+#body {
+	 background-color: #E6E6E6;
+}
+
+#blandRow {
+	text-align: center;
+	font-size: 37px;
+	color: #E6E6E6;
+}

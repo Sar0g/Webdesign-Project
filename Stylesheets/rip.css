@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+#rip {
+	width: 30%;
+	height: auto;
+	position: absolute;
+	bottom: 5%;
+	left: 2%;
+}
