@@ -4,8 +4,19 @@
 	 background-color: #E6E6E6;
 }
 
-#blandRow {
+#blankRow {
 	text-align: center;
 	font-size: 37px;
 	color: #E6E6E6;
+}
+
+
+#story {
+	text-align: center;
+	font-size: 37px;
+}
+
+#ending {
+	text-align: center;
+	font-size: 40px;
 }

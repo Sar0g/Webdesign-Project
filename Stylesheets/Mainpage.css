@@ -28,6 +28,13 @@
 	padding: 2%;
 }
 
+#onlyOne {
+	width: 36%;
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 img {
 	width: 89%;
 	height: auto;
