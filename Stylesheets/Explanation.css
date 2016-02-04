@@ -13,6 +13,14 @@
 	margin-top: 1%;
 }
 
+#back {
+	position: absolute;
+	width: 10%;
+	hight: auto;
+	margin-left: 7%;
+	margin-top: 29%;
+}
+
 img {
 	width: 100%;
 	hight: auto;
