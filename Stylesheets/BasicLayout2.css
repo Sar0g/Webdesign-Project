@@ -7,6 +7,7 @@
 #part {
 	position: absolute;
 	font-size: 17px;
+	font-style: italic;
 	padding: 5px;
 }
 
@@ -15,6 +16,11 @@
 	font-size: 150%;
 	font-color: #ffffff;
 }
+
+a:link
+{ 
+text-decoration: none;
+text-underline: none; } 
 
 img {
 	width: 72%;

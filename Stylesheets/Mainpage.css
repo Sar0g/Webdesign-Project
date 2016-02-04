@@ -35,6 +35,11 @@
     margin-right: auto;
 }
 
+#textOne {
+	text-align: center;
+	font-size: 155%;
+}
+
 img {
 	width: 89%;
 	height: auto;

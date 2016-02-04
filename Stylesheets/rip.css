@@ -1,9 +1,30 @@
 @CHARSET "ISO-8859-1";
 
+#start {
+	text-align: center;
+	font-size: 27px;
+}
+
 #rip {
 	width: 30%;
 	height: auto;
 	position: absolute;
 	bottom: 5%;
 	left: 2%;
+}
+
+#rip2 {
+	width: 26%;
+	height: auto;
+	position: absolute;
+	bottom: 5%;
+	left: 2%;
+}
+
+#rip3 {
+	width: 21%;
+	height: auto;
+	position: absolute;
+	bottom: 5%;
+	left: 4%;
 }
