@@ -16,12 +16,15 @@
 #text-header {
 	text-align: center;
 	font-size: 550%;
-	padding: 3%;
+	font-family: OptimusPrinceps;
+	padding: 2%;
+	margin-top: 1%;
 }
 
 #text {
 	text-align: center;
-	font-size: 235%;
+	font-size: 40px;
+	font-family: OptimusPrinceps;
 }
 
 #line {
