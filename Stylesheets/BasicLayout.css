@@ -17,6 +17,7 @@ img {
 	width: 89%;
 	height: auto;
 	margin-left: 5%;
+	border: 8px solid #35818c;
 }
 
 [class*="col-"] {
